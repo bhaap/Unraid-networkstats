@@ -5,7 +5,7 @@ This plugin installs and utilizes vnstat/vnstati to monitor network usage on you
 
 To install use the following URL:
 
-```https://raw.githubusercontent.com/dorgan/Unraid-networkstats/master/networkstats.plg```
+```https://raw.githubusercontent.com/bhaap/Unraid-networkstats/master/networkstats.plg```
 
 ![Current output of plugin](https://github.com/dorgan/Unraid-networkstats/raw/master/screenshots/Network-Stats.png)
 ![Settings screen for plugin](https://github.com/dorgan/Unraid-networkstats/raw/master/screenshots/Network-Stats-Settings.png)

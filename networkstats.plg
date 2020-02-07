@@ -13,7 +13,7 @@
   <!ENTITY plgPATH   "/boot/config/plugins/&name;">
   <!ENTITY plgNAME   "&name;-&version;-x86_64-1">
   <!ENTITY vnstatFile "vnstat-2.4-x86_64-1_slonly.txz">
-  <!ENTITY vnstatFileMD5 "f6362e0921c85f648921e72b61435d0a">
+  <!ENTITY vnstatFileMD5 "f03c5244bcbb602685d50fb4e67a6997">
 ]>
 
 <PLUGIN  name="&name;"
